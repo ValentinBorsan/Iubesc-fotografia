@@ -1,0 +1,11 @@
+<svg width="300" height="150" viewBox="0 0 300 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M110 75C110 91.5685 96.5685 105 80 105C63.4315 105 50 91.5685 50 75C50 58.4315 63.4315 45 80 45C96.5685 45 110 58.4315 110 75ZM80 57.5C70.335 57.5 62.5 65.335 62.5 75C62.5 84.665 70.335 92.5 80 92.5C89.665 92.5 97.5 84.665 97.5 75C97.5 65.335 89.665 57.5 80 57.5Z" fill="white"/>
+    <path d="M102.5 52.5L112.5 42.5H127.5L117.5 52.5H102.5Z" fill="white"/>
+    <path d="M102.5 97.5L112.5 107.5H127.5L117.5 97.5H102.5Z" fill="white"/>
+    <path d="M57.5 42.5L47.5 32.5H32.5L42.5 42.5H57.5Z" fill="white"/>
+    <path d="M57.5 107.5L47.5 117.5H32.5L42.5 107.5H57.5Z" fill="white"/>
+</g>
+<text x="140" y="70" font-family="Montserrat, sans-serif" font-size="30" fill="white" font-weight="bold">IUBESC</text>
+<text x="140" y="100" font-family="Montserrat, sans-serif" font-size="22" fill="white">FOTOGRAFIA</text>
+</svg>
